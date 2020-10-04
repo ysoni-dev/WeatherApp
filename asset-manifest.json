@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weatherapp/static/css/main.5331024b.chunk.css",
+    "main.js": "/Weatherapp/static/js/main.8899f5e3.chunk.js",
+    "main.js.map": "/Weatherapp/static/js/main.8899f5e3.chunk.js.map",
+    "runtime-main.js": "/Weatherapp/static/js/runtime-main.df354785.js",
+    "runtime-main.js.map": "/Weatherapp/static/js/runtime-main.df354785.js.map",
+    "static/js/2.0506fbc3.chunk.js": "/Weatherapp/static/js/2.0506fbc3.chunk.js",
+    "static/js/2.0506fbc3.chunk.js.map": "/Weatherapp/static/js/2.0506fbc3.chunk.js.map",
+    "index.html": "/Weatherapp/index.html",
+    "precache-manifest.cf9490ed57035045e675075a9d2b147c.js": "/Weatherapp/precache-manifest.cf9490ed57035045e675075a9d2b147c.js",
+    "service-worker.js": "/Weatherapp/service-worker.js",
+    "static/css/main.5331024b.chunk.css.map": "/Weatherapp/static/css/main.5331024b.chunk.css.map",
+    "static/js/2.0506fbc3.chunk.js.LICENSE.txt": "/Weatherapp/static/js/2.0506fbc3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Weatherapp/static/media/nightpc.40c4ca3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df354785.js",
+    "static/js/2.0506fbc3.chunk.js",
+    "static/css/main.5331024b.chunk.css",
+    "static/js/main.8899f5e3.chunk.js"
+  ]
+}
