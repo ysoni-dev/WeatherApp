@@ -12,7 +12,11 @@
     "react": "^16.13.1",
     "react-axios": "^2.0.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-helmet": "^6.1.0",
+    "react-id-swiper": "^4.0.0",
+    "react-scripts": "3.4.3",
+    "react-test-renderer": "^17.0.1",
+    "swiper": "^6.3.5"
   },
   "scripts": {
     "predeploy": "npm run build",
